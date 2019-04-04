@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en">
+  <head>
+    <meta content="12603660-52c9-4943-bb71-d7f011669101" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.34.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Table of Contents</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Other Books by This Author</text>
+      </navLabel>
+      <content src="text/part0000.html#adc"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI1-fa87aa9d62d04dc8b462f688aba52689"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/part0002.html#cop"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="text/part0003.html#ded"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>A Cavil on Chronology</text>
+      </navLabel>
+      <content src="text/part0004.html#col1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Map</text>
+      </navLabel>
+      <content src="text/part0005.html#map"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text/part0006.html#heading_id_2"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="text/part0007.html#prl"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chap 01: Tyrion</text>
+      </navLabel>
+      <content src="text/part0009.html#c01"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chap 02: Daenerys</text>
+      </navLabel>
+      <content src="text/part0010.html#c02"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chap 03: Jon</text>
+      </navLabel>
+      <content src="text/part0011.html#c03"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chap 04: Bran</text>
+      </navLabel>
+      <content src="text/part0012.html#c04"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chap 05: Tyrion</text>
+      </navLabel>
+      <content src="text/part0013.html#c05"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chap 06: The Merchant’s Man</text>
+      </navLabel>
+      <content src="text/part0014.html#c06"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chap 07: Jon</text>
+      </navLabel>
+      <content src="text/part0015.html#c07"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chap 08: Tyrion</text>
+      </navLabel>
+      <content src="text/part0016.html#c08"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chap 09: Davos</text>
+      </navLabel>
+      <content src="text/part0017.html#c09"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chap 10: Jon</text>
+      </navLabel>
+      <content src="text/part0018.html#c10"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chap 11: Daenerys</text>
+      </navLabel>
+      <content src="text/part0019.html#c11"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chap 12: Reek</text>
+      </navLabel>
+      <content src="text/part0020.html#c12"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chap 13: Bran</text>
+      </navLabel>
+      <content src="text/part0021.html#c13"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chap 14: Tyrion</text>
+      </navLabel>
+      <content src="text/part0022.html#c14"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chap 15: Davos</text>
+      </navLabel>
+      <content src="text/part0023.html#c15"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chap 16: Daenerys</text>
+      </navLabel>
+      <content src="text/part0024.html#c16"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chap 17: Jon</text>
+      </navLabel>
+      <content src="text/part0025.html#c17"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chap 18: Tyrion</text>
+      </navLabel>
+      <content src="text/part0026.html#c18"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chap 19: Davos</text>
+      </navLabel>
+      <content src="text/part0027.html#c19"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chap 20: Reek</text>
+      </navLabel>
+      <content src="text/part0028.html#c20"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chap 21: Jon</text>
+      </navLabel>
+      <content src="text/part0029.html#c21"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chap 22: Tyrion</text>
+      </navLabel>
+      <content src="text/part0030.html#c22"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chap 23: Daenerys</text>
+      </navLabel>
+      <content src="text/part0031.html#c23"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chap 24: The Lost Lord</text>
+      </navLabel>
+      <content src="text/part0032.html#c24"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chap 25: The Windblown</text>
+      </navLabel>
+      <content src="text/part0033.html#c25"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chap 26: The Wayward Bride</text>
+      </navLabel>
+      <content src="text/part0034.html#c26"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chap 27: Tyrion</text>
+      </navLabel>
+      <content src="text/part0035.html#c27"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chap 28: Jon</text>
+      </navLabel>
+      <content src="text/part0036.html#c28"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chap 29: Davos</text>
+      </navLabel>
+      <content src="text/part0037.html#c29"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chap 30: Daenerys</text>
+      </navLabel>
+      <content src="text/part0038.html#c30"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chap 31: Melisandre</text>
+      </navLabel>
+      <content src="text/part0039.html#c31"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chap 32: Reek</text>
+      </navLabel>
+      <content src="text/part0040.html#c32"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chap 33: Tyrion</text>
+      </navLabel>
+      <content src="text/part0041.html#c33"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chap 34: Bran</text>
+      </navLabel>
+      <content src="text/part0042.html#c34"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chap 35: Jon</text>
+      </navLabel>
+      <content src="text/part0043.html#c35"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chap 36: Daenerys</text>
+      </navLabel>
+      <content src="text/part0044.html#c36"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chap 37: The Prince of Winterfell</text>
+      </navLabel>
+      <content src="text/part0045.html#c37"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chap 38: The Watcher</text>
+      </navLabel>
+      <content src="text/part0046.html#c38"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chap 39: Jon</text>
+      </navLabel>
+      <content src="text/part0047.html#c39"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chap 40: Tyrion</text>
+      </navLabel>
+      <content src="text/part0048.html#c40"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chap 41: The Turncloak</text>
+      </navLabel>
+      <content src="text/part0049.html#c41"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chap 42: The King’s Prize</text>
+      </navLabel>
+      <content src="text/part0050.html#c42"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chap 43: Daenerys</text>
+      </navLabel>
+      <content src="text/part0051.html#c43"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chap 44: Jon</text>
+      </navLabel>
+      <content src="text/part0052.html#c44"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chap 45: The Blind Girl</text>
+      </navLabel>
+      <content src="text/part0053.html#c45"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chap 46: A Ghost in Winterfell</text>
+      </navLabel>
+      <content src="text/part0054.html#c46"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chap 47: Tyrion</text>
+      </navLabel>
+      <content src="text/part0055.html#c47"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chap 48: Jaime</text>
+      </navLabel>
+      <content src="text/part0056.html#c48"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chap 49: Jon</text>
+      </navLabel>
+      <content src="text/part0057.html#c49"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chap 50: Daenerys</text>
+      </navLabel>
+      <content src="text/part0058.html#c50"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>Chap 51: Theon</text>
+      </navLabel>
+      <content src="text/part0059.html#c51"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>Chap 52: Daenerys</text>
+      </navLabel>
+      <content src="text/part0060.html#c52"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>Chap 53: Jon</text>
+      </navLabel>
+      <content src="text/part0061.html#c53"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>Chap 54: Cersei</text>
+      </navLabel>
+      <content src="text/part0062.html#c54"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>Chap 55: The Queensguard</text>
+      </navLabel>
+      <content src="text/part0063.html#c55"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>Chap 56: The Iron Suitor</text>
+      </navLabel>
+      <content src="text/part0064.html#c56"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>Chap 57: Tyrion</text>
+      </navLabel>
+      <content src="text/part0065.html#c57"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>Chap 58: Jon</text>
+      </navLabel>
+      <content src="text/part0066.html#c58"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>Chap 59: The Discarded Knight</text>
+      </navLabel>
+      <content src="text/part0067.html#c59"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>Chap 60: The Spurned Suitor</text>
+      </navLabel>
+      <content src="text/part0068.html#c60"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>Chap 61: The Griffin Reborn</text>
+      </navLabel>
+      <content src="text/part0069.html#c61"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>Chap 62: The Sacrifice</text>
+      </navLabel>
+      <content src="text/part0070.html#c62"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>Chap 63: Victarion</text>
+      </navLabel>
+      <content src="text/part0071.html#c63"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>Chap 64: The Ugly Little Girl</text>
+      </navLabel>
+      <content src="text/part0072.html#c64"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>Chap 65: Cersei</text>
+      </navLabel>
+      <content src="text/part0073.html#c65"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>Chap 66: Tyrion</text>
+      </navLabel>
+      <content src="text/part0074.html#c66"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>Chap 67: The Kingbreaker</text>
+      </navLabel>
+      <content src="text/part0075.html#c67"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>Chap 68: The Dragontamer</text>
+      </navLabel>
+      <content src="text/part0076.html#c68"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>Chap 69: Jon</text>
+      </navLabel>
+      <content src="text/part0077.html#c69"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>Chap 70: The Queen’s Hand</text>
+      </navLabel>
+      <content src="text/part0078.html#c70"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>Chap 71: Daenerys</text>
+      </navLabel>
+      <content src="text/part0079.html#c71"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="text/part0080.html#epl"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>Appendix</text>
+      </navLabel>
+      <content src="text/part0082.html#bm1"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="text/part0104.html#ack"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/part0105.html#ata"/>
+    </navPoint>
+  </navMap>
+</ncx>
+
